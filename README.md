@@ -1,5 +1,5 @@
 # DNS_Tunneling_Detection_on_AWS
-Describes an architecture for DNS Tunneling detection at AWS cloud envirement, using ELK.
+Describes an architecture for DNS Tunneling detection at AWS cloud environment, using ELK.
 
 1. Modules for collecting DNS logs:
   - from AWS VPC flows -> Filebeat (ELK beat)
